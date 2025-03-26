@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<plml version="1">
+    <state name="ONE" state="1" state_string="First state" state_type="0" state_date="2025-01-01T00:00:01.000Z" id="ONE"/>
+    <state name="TWO" state="2" state_string="Second state" state_type="0" state_date="2025-01-02T00:00:02.000Z" id="TWO"/>
+    <state name="THREE" state="3" state_string="Third state" state_type="0" state_date="2025-01-03T00:00:03.000Z" id="THREE"/>
+    <state name="FOUR" state="4" state_string="Fourth state" state_type="0" state_date="2025-01-04T00:00:04.000Z" id="FOUR"/>
+</plml>
